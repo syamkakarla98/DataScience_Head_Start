@@ -6,8 +6,8 @@
   ![issues](https://img.shields.io/github/issues/syamkakarla98/DataScience_Head_Start)
   ![License](https://img.shields.io/github/license/syamkakarla98/DataScience_Head_Start)
   
-##### Let's Learn Data Science📈 Together✌.
-##### Takeaway's✨🖤
+#### Let's Learn Data Science📈 Together✌.
+#### Takeaway's✨🖤
   * Learn from Real Time Datasets
   * Data Analysis
   * Data Visualisations
@@ -19,6 +19,6 @@
 ##### Let's Start
 * [Sackoverflow_Developer_Survey_Analysis.ipynb](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Sackoverflow_Developer_Survey_Analysis.ipynb) - Begginer data analysis on the stackoverflow developer survey 2019.
 
-##### More is on the way.
-##### Give a Star⭐ to get Updated.
+#### More is on the way.
+#### Give a Star⭐ to get Updated.
 
