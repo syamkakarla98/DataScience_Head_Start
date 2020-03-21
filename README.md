@@ -7,7 +7,7 @@
   ![License](https://img.shields.io/github/license/syamkakarla98/DataScience_Head_Start)
   
 #### Let's Learn Data Science📈 Together✌.
-#### Takeaway's✨🖤
+#### Takeaway's✨
   * Learn from Real Time Datasets
   * Data Analysis
   * Data Visualisations
