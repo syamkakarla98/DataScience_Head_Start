@@ -17,7 +17,7 @@
   * Finally, Little Bit of Statistics😅
 
 ##### Let's Start
-* [Sackoverflow_Developer_Survey_Analysis.ipynb](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Sackoverflow_Developer_Survey_Analysis.ipynb) - Begginer data analysis on the stackoverflow developer survey 2019.
+* [Sackoverflow_Developer_Survey_Analysis.ipynb](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Sackoverflow_Developer_Survey_Analysis.ipynb) - Begginer data analysis on the stackoverflow developer survey 2019 and also includes few questions.
 
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
