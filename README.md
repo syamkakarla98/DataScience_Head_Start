@@ -6,6 +6,8 @@
   ![issues](https://img.shields.io/github/issues/syamkakarla98/DataScience_Head_Start)
   ![License](https://img.shields.io/github/license/syamkakarla98/DataScience_Head_Start)
   
+
+![Data Science](https://secure.meetupstatic.com/photos/event/d/7/7/1/highres_482695153.jpeg)
 #### Let's Learn Data Science📈 Together✌.
 #### Takeaway's✨
   * Learn from Real Time Datasets
