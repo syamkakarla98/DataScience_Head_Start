@@ -23,7 +23,7 @@
 #### Let's Start
 * [Stackoverflow Developer Survey Analysis](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Sackoverflow_Developer_Survey_Analysis.ipynb) - Begginer data analysis on the **Stackoverflow Developer Survey 2019**. It also includes few questions that are needed to be answered by analysing the data.
 
-* [UFO Sightings](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/UFO_Sightings.ipynb) - Data analysis on the **UFO sightings dataset**. It includes the analysis of the attributes, Visualizations, finding insights from the analysis of dataset e.t.c. and aslo ends with questions which are answered by analysing data.
+* [UFO Sightings](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/UFO_Sightings.ipynb) - Data analysis on the **UFO Sightings Dataset**. It includes the analysis of the attributes, Visualizations, finding insights from the analysis of dataset e.t.c. and aslo ends with questions which are answered by analysing data.
 
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
