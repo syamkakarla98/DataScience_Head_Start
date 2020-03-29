@@ -25,6 +25,8 @@
 
 * [UFO Sightings](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/UFO_Sightings.ipynb) - Data analysis on the **UFO Sightings Dataset**. It includes the analysis of the attributes, Visualizations, finding insights from the analysis of dataset e.t.c. and aslo ends with questions which are answered by analysing data.
 
+* [Student Performance](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Student_Preformance.ipynb) - The dataset is about the student performance on exam scores. The notebook describes the various ways to visualize to get the insights of the data.
+
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
 
