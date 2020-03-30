@@ -32,8 +32,7 @@
   
 * [**Machine Learning**](https://github.com/syamkakarla98/DataScience_Head_Start/tree/master/Machine_Learning)
 
-  * [Spam Mail Classifier](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Machine_Learning/Spam_Mail_Classifier.ipynb)
-      :Develops a *Logistic Regression model* to classify whether the mail is spam or not
+  * [Spam Mail Classifier](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Machine_Learning/Spam_Mail_Classifier.ipynb): evelops a *Logistic Regression model* to classify whether the mail is spam or not
   
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
