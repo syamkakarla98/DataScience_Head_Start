@@ -28,6 +28,11 @@
   * [Stackoverflow Developer Survey](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/DataAnalysis/Stackoverflow_Developer_Survey_Analysis.ipynb)
   * [UFO Sightings](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/DataAnalysis/UFO_Sightings.ipynb)
   * [Student Performance in Exams](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/DataAnalysis/Student_Preformance.ipynb)
+  
+  
+* [**Machine Learning**](https://github.com/syamkakarla98/DataScience_Head_Start/tree/master/Machine_Learning)
+
+  * [Spam Mail Classifier](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Machine_Learning/Spam_Mail_Classifier.ipynb)
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
 
