@@ -25,10 +25,9 @@
 * [**Data Analysis** ](https://github.com/syamkakarla98/DataScience_Head_Start/tree/master/DataAnalysis)
 
   It is one of the quintessential act to understand analyse the data, which helps to derive primary insights from the data. Lets look into three interesting datasets:
-  * Stackoverflow Developer Survey Analysis
-  * UFO Sightings
-  * Student Performance
-
+  * [Stackoverflow Developer Survey](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/DataAnalysis/Stackoverflow_Developer_Survey_Analysis.ipynb)
+  * [UFO Sightings](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/DataAnalysis/UFO_Sightings.ipynb)
+  * [Student Performance ](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/DataAnalysis/Student_Preformance.ipynb)
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
 
