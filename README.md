@@ -32,7 +32,7 @@
   
 * [**Machine Learning**](https://github.com/syamkakarla98/DataScience_Head_Start/tree/master/Machine_Learning)
 
-  * Lets start with a classic problem [Spam Mail Classifier](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Machine_Learning/Spam_Mail_Classifier.ipynb)
+  * Lets start with a classic problem, [Spam Mail Classifier](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Machine_Learning/Spam_Mail_Classifier.ipynb).
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
 
