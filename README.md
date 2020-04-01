@@ -18,6 +18,7 @@
   * Data Cleaning
   * Feature Engineering
   * Machine Learning
+  * Deep Learning
   * Finally, Little Bit of Statistics😅
 
 ### Let's Start
