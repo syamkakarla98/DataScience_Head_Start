@@ -34,6 +34,11 @@
 * [**Machine Learning**](https://github.com/syamkakarla98/DataScience_Head_Start/tree/master/Machine_Learning)
 
   * Lets start with a **_classic problem_**, [Spam Mail Classifier](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Machine_Learning/Spam_Mail_Classifier.ipynb).
+  
+* [**Deep Learning**](https://github.com/syamkakarla98/DataScience_Head_Start/tree/master/Deep_Learning)
+  
+  * [Traffic Sign Recognition](https://github.com/syamkakarla98/DataScience_Head_Start/blob/master/Deep_Learning/Traffic_Sign_Classification.ipynb)
+
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
 
