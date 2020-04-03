@@ -37,7 +37,7 @@
   
 * [**Deep Learning**](https://github.com/syamkakarla98/DataScience_Head_Start/tree/master/Deep_Learning)
   
-  * Lets begin with a computer vision problem, [Traffic Sign Recognition](https://nbviewer.jupyter.org/github/syamkakarla98/DataScience_Head_Start/blob/master/Deep_Learning/Traffic_Sign_Classification.ipynb)
+  * Lets begin with a **_computer vision problem_**, [Traffic Sign Recognition](https://nbviewer.jupyter.org/github/syamkakarla98/DataScience_Head_Start/blob/master/Deep_Learning/Traffic_Sign_Classification.ipynb)
 
 #### More is on the way.
 #### Give a Star⭐ to get Updated.
